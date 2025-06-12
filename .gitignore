@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+# Build output
+target/
+dist/
+# Anchor test validator data
+.test-ledger/
+# Environment files
+.env
+.DS_Store
