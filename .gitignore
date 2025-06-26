@@ -4,7 +4,7 @@ node_modules/
 target/
 dist/
 # Anchor test validator data
-.test-ledger/
+test-ledger/
 # Environment files
 .env
 .DS_Store
