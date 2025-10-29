@@ -759,7 +759,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "interra-limitOrder-solana"
+name = "interra-limit-order-solana"
 version = "0.1.0"
 dependencies = [
  "anchor-lang",
